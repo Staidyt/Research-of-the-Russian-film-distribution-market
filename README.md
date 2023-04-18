@@ -1,3 +1,5 @@
+**RU**
+
 # Исследование рынка российского кинопроката
 
 ## Задача проекта
@@ -7,3 +9,19 @@
 - Pandas
 - Python
 - Matplotlib
+
+** Проект завершен 04 декабря 2021 **
+
+**ENG**
+
+# Research of the Russian film distribution market
+
+## Project task
+To study the Russian film distribution market and identify current trends. To make an analysis of how much films that have received state support are interesting to the viewer.
+
+## Skills and tools used in the project
+- Pandas
+- Python
+- Matplotlib
+
+** The project was completed on December 04, 2021 **
