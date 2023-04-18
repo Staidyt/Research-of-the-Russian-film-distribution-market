@@ -10,7 +10,7 @@
 - Python
 - Matplotlib
 
-** Проект завершен 04 декабря 2021 **
+**Проект завершен 04 декабря 2021**
 
 **ENG**
 
@@ -24,4 +24,4 @@ To study the Russian film distribution market and identify current trends. To ma
 - Python
 - Matplotlib
 
-** The project was completed on December 04, 2021 **
+**The project was completed on December 04, 2021**
